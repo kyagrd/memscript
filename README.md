@@ -17,7 +17,4 @@ Description: "memscript <filename>"
   such as your favorite poems, quotes, or whatsoever.
   
   No craft or ticks, really simple and straightforward utility but
-  serves well for the purpose.  I used readline because that was
-  the only sane way I know of handling multibyte inputs.
-
-
+  serves well for the purpose.
