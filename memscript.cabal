@@ -9,7 +9,7 @@ Author:              Ahn, Ki Yung
 Maintainer:          Ahn, Ki Yung <kya@pdx.edu>
 Build-Type:          Simple
 Cabal-Version:       >=1.2
-extra-source-files:  README
+extra-source-files:  README.md
 
 Description: "memscript <filename>"
 
